@@ -5,3 +5,6 @@
 - 🌱 I’m currently learning Haxe, Python, C++ and Javascript!
 - 🤔 I’m looking for help with C++
 - ⚡ Fun fact: give me money
+
+
+profile picture by [purplekitten203](https://twitter.com/purplekitten203)
