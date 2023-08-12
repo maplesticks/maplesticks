@@ -7,5 +7,3 @@
 - 🤔 I’m looking for help with C++
 - ⚡ Fun fact: give me money
 - :accessibility: [All of my socials](https://retroprogram.carrd.co)
-
-profile picture by [purplekitten203](https://twitter.com/purplekitten203)
