@@ -2,7 +2,7 @@
 ##  Heres a little bit about my self:
 
 - 🎂: 13, black, musician, coder, he/him!
-- 🌱 I’m currently learning Haxe, Python, C++ and Javascript!
+- 🌱 I’m currently learning Haxe, Python, C++, Lua and Javascript!
 - 🔭 I’m currently working on FNF: Akebia, [Saturday Night Chartin](https://gamebanana.com/mods/417294), and [V.S. Car!](https://gamebanana.com/wips/73376)
 - 🤔 I’m looking for help with C++
 - ⚡ Fun fact: give me money
