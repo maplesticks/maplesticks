@@ -6,4 +6,4 @@
 - 🔭 I’m currently working on FNF: Akebia, [Saturday Night Chartin](https://gamebanana.com/mods/417294), and [V.S. Car!](https://gamebanana.com/wips/73376)
 - 🤔 I’m looking for help with C++
 - ⚡ Fun fact: give me money
-- :accessibility: [All of my socials](https://retroprogram.carrd.co)
+- :accessibility: [All of my socials](https://retrolol.carrd.co)
