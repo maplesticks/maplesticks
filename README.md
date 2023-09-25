@@ -1,4 +1,4 @@
-### Hello! My name is GexExile! And I like to compose and code!
+### Hello! My name is RETRIAL! And I like to produce music and code!
 ##  Heres a little bit about my self:
 
 - 🎂: 13 (14 soon), black, musician and a coder!
