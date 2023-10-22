@@ -1,4 +1,4 @@
-### Hello! My name is RETRIAL! And I like to produce music and code!
+### hey y'all, Maple here! yeah this is my github!
 ##  Heres a little bit about my self:
 
 - 🎂 14, black, musician and a coder!
